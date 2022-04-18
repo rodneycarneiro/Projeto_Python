@@ -1,6 +1,11 @@
 # Autor.....: Rodney Carneiro
-# Data......: 10/05/
-# Objetivo..: Condicionais
+# Data......: 18/04/2022
+# Objetivo..: Condicionais Simples e Complexas
+"""
+Dados o número de identificação do funcionário (alfanumérico com 8 caracteres), valor que ganha por 
+hora, o número de horas-faltas e o número de horas-extras (considerar horas e minutos real ex: 8.30).
+No final do programa imprimir o numero do funcionário e o prêmio a que faz juz. 
+"""
 
 funcionario = int(input("Informe o número do funcionário.........: "))
 valor_hr = float(input("Informe o valor que ganha por horas.....: "))

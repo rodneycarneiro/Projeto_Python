@@ -1,7 +1,10 @@
 # Autor.....: Rodney Carneiro
-# Data......: 10/05/
-# Objetivo..: Condicionais
+# Data......: 18/04/2022
+# Objetivo..: Condicionais Simples e Complexas
+"""
+Faça um programa que determina o menor entre três valores inteiros lidos. 
 
+"""
 v1 = int(input("Informe um valor.....: "))
 v2 = int(input("Informe um valor.....: "))
 v3 = int(input("Informe um valor.....: "))

@@ -1,6 +1,10 @@
 # Autor.....: Rodney Carneiro
-# Data......: 10/05/
-# Objetivo..: Condicionais
+# Data......: 18/04/2022
+# Objetivo..: Condicionais Simples e Complexas
+"""
+Faça um programa que simula uma calculadora através de um menu de opções para as quatro operações : 
+adição, multiplicação, divisão e subtração. Admita tipo real para os dados de entrada. 
+"""
 
 print ('+==========================================!')
 print ('!            A - SOMA                      !')

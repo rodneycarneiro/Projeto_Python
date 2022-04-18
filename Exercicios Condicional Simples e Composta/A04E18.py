@@ -1,6 +1,9 @@
 # Autor.....: Rodney Carneiro
-# Data......: 10/05/
-# Objetivo..: Condicionais
+# Data......: 18/04/2022
+# Objetivo..: Condicionais Simples e Complexas
+"""
+Faça um programa que leia três valores inteiros e os escreva em ordem crescente. 
+"""
 
 a = int(input("Informe um valor inteiro....: "))
 b = int(input("Informe um valor inteiro....: "))
